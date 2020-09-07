@@ -1,2 +1,2 @@
-list 3 zadanie 1 1213123
+list 4 zadanie 2 sprawdzenie ssh
 
